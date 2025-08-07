@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77ffd5ff-7a96-4b6b-b9df-22f5ebb9e902" name="Changes" comment="create for th fist time" />
+    <list default="true" id="77ffd5ff-7a96-4b6b-b9df-22f5ebb9e902" name="Changes" comment="create for th fist time">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +53,8 @@
     "Python.etl.executor": "Run",
     "Python.max.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true"
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "dev"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -85,7 +88,23 @@
       <option name="project" value="LOCAL" />
       <updated>1754462779229</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="create for th fist time">
+      <option name="closed" value="true" />
+      <created>1754471134413</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1754471134413</updated>
+    </task>
+    <task id="LOCAL-00004" summary="create for th fist time">
+      <option name="closed" value="true" />
+      <created>1754471183105</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1754471183105</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
